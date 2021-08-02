@@ -1,0 +1,15 @@
+"""
+Store all settings
+"""
+
+BOARD_SIZE = 512
+SQ_SIZE = BOARD_SIZE // 8
+
+MOVE_COLOR = (225, 128, 0)
+VALID_COLOR = (0, 255, 0)
+DARK_COLOR = (75, 115, 153)
+LIGHT_COLOR = (234, 233, 210)
+
+TEXT_COLOR = (0, 0, 0)
+TEXT_BG_COLOR = (255, 255, 255)
+
